@@ -1,0 +1,30 @@
+{
+  "name": "Employee-Directory",
+  "version": "1.0.0",
+  "description": "React Employee Directory",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dom": "^0.0.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.1",
+    "router": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcw2865/Employee-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcw2865/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/jcw2865/Employee-Directory#readme"
+}
