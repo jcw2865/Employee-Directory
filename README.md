@@ -32,7 +32,7 @@ https://github.com/jcw2865/Employee-Directory
 
 https://gentle-hollows-02769.herokuapp.com/
 
-Development
+## Development
 Below are the steps I took to create the application as it is so far. This was my first project utilizing React.js. There was definitely a learning curve around JSX and understanding how React components work. 
 
 * Created the initial React app with the CLI command "npx create-react-app".
