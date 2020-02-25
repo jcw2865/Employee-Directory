@@ -1,5 +1,6 @@
 import React from 'react';
 import MaterialTable from 'material-table';
+import 'typeface-roboto';
 
 export default function MaterialTableDemo() {
     const [state, setState] = React.useState({
